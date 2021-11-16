@@ -15,3 +15,6 @@ Open Snapshot folder to se full use.
 🌤️Click on Search or hit Enter. 
 🌤️If yor write incorrect city name it will show error as "Enter another city name".
 🌤️Whenever you open app, you will get to see a changed background every time.
+
+
+<img src="https://github.com/DeepanshuGoel1122/weather-app-python/blob/main/Snapshots/Capture3.JPG">
